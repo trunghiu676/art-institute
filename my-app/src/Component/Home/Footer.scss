@@ -1,0 +1,46 @@
+
+.footter-contact{
+    background-color:#f4f4f4;
+    color: #6e6e6e;
+    padding:30px 100px;
+    .col-contact{
+        span{
+            color: black;
+            a{
+                color: black;
+                text-decoration:  none;
+            }
+        }
+    }
+    .title-contact{
+        font-size: 20px;
+        font-weight: 650;
+        color: black ;
+    }
+    .ul-footer{
+        list-style-type: none;
+        a{
+            text-decoration: none;
+            color:#6e6e6e ;
+                &:hover{
+                    color: black ;
+                }
+                line-height: 15px;
+                
+        }
+    }
+    .social{
+        font-size: 35px;
+        padding-left: 10px;
+        a{
+            color: #6e6e6e;
+            &:hover{
+                color: black ; ;
+            }
+        }
+    }
+    iframe{
+        width: 100%;
+    }
+                    
+}

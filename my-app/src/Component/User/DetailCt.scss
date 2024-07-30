@@ -1,0 +1,224 @@
+#container {
+    box-shadow: 0 15px 30px 1px grey;
+    background: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 5em auto;
+    height: auto;
+    width: 1200px;
+}
+
+.product-details {
+    position: relative;
+    text-align: left;
+    overflow: hidden;
+    padding: 30px;
+    height: 100%;
+    float: left;
+    width: 40%;
+
+    h1 {
+        font-family: 'Bebas Neue', cursive;
+        font-size: 40px;
+        color: #6c0000;
+        margin: 0;
+    }
+
+    p {
+        font-family: 'EB Garamond', serif;
+        margin: 1em;
+        font-size: 18px;
+        color: #000000;
+    }
+}
+
+.control {
+    position: absolute;
+    bottom: 20%;
+    left: 22.8%;
+}
+
+.btnn {
+    margin-top: 100px;
+    transform: translateY(70px);
+    transition: 0.3s linear;
+    background: #0055ff;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: #eee;
+    padding: 0;
+    margin: 0;
+
+    &:hover {
+        transform: translateY(63px);
+        background: #809fff;
+        color: #eee;
+    }
+
+    span {
+        font-family: 'Farsan', cursive;
+        transition: transform 0.3s;
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 1.2em;
+        margin: 0;
+    }
+
+
+    .button {
+        z-index: 3;
+        font-weight: bolder;
+    }
+
+}
+
+.product-image {
+    transition: all 0.3s ease-out;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    //    float: right;
+    display: inline-block;
+
+    &:hover {
+        .info {
+            transform: translateX(0);
+        }
+
+        img {
+            transition: all 0.3s ease-out;
+            transform: scale(1.2, 1.2);
+        }
+    }
+}
+
+.body-title1 {
+    margin-top: 30px;
+    margin-left: 70px;
+    text-align: center;
+
+    @-webkit-keyframes my {
+        0% {
+            color: black;
+        }
+
+        50% {
+            color: #fff;
+        }
+
+        100% {
+            color: black;
+        }
+    }
+
+    @-moz-keyframes my {
+        0% {
+            color: black;
+        }
+
+        50% {
+            color: #fff;
+        }
+
+        100% {
+            color: black;
+        }
+    }
+
+    @-o-keyframes my {
+        0% {
+            color: black
+        }
+
+        50% {
+            color: #fff;
+        }
+
+        100% {
+            color: black;
+        }
+    }
+
+    @keyframes my {
+        0% {
+            color: black;
+        }
+
+        50% {
+            color: #fff;
+        }
+
+        100% {
+            color: black;
+        }
+    }
+
+    a {
+        color: white;
+        margin-top: 20px;
+        text-decoration: none;
+        background-color: black;
+        border-radius: 10px;
+        border: solid 6px black;
+        font-size: 24px;
+        font-weight: bold;
+        -webkit-animation: my 1000ms infinite;
+        -moz-animation: my 1000ms infinite;
+        -o-animation: my 1000ms infinite;
+        animation: my 1000ms infinite;
+    }
+}
+
+.body-menu2 {
+    display: block;
+    padding-top: 30px;
+    margin-left: 60px;
+    gap: 250px;
+
+    .cardimg {
+        transform: scale(1, 1);
+        transition: 1s;
+
+        &:hover {
+            transform: scale(1.1, 1.1);
+        }
+
+    }
+
+    .title {
+        text-align: center;
+
+        .title-h2 {
+            font-size: 15px;
+            text-align: center;
+            font-weight: 700 !important;
+            text-transform: capitalize !important;
+            margin-top: 0.5rem !important;
+        }
+
+        .title-span {
+            color: black;
+            font-weight: 700 !important;
+            text-align: center;
+            font-size: 15px;
+        }
+
+        .title-del {
+            color: #777;
+            font-weight: 400;
+            font-size: 14px;
+            margin-left: 10px;
+            font-style: italic;
+        }
+
+    }
+
+    .section {
+        display: block;
+    }
+}

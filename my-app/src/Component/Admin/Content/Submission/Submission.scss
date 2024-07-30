@@ -1,0 +1,49 @@
+.star-rating {
+    display: inline-block;
+    font-size: 24px;
+}
+
+.star {
+    display: inline-block;
+    color: #fcd016;
+    /* Màu sao đã đánh giá */
+    overflow: hidden;
+}
+
+.star.partial {
+    display: inline-block;
+    width: 12px;
+    /* Chiều rộng bằng một nửa của sao */
+    height: 24px;
+    /* Chiều cao của ngôi sao */
+    overflow: hidden;
+}
+
+.star-content {
+    position: relative;
+    top: -12px;
+    clip-path: polygon(0 0, 50% 0, 50% 550%, 0 90%);
+    /* Cắt nửa bên trái của ngôi sao */
+}
+
+//rating trong modals
+.starRating {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+
+.star2 {
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.star2.filled2 {
+    color: #fcd016;
+    /* Màu sao đã đánh giá */
+}
+
+.star2:hover {
+    color: #fcd016;
+    /* Màu sao khi di chuột qua */
+}

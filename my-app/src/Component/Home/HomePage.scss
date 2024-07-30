@@ -1,0 +1,215 @@
+.body-container{
+  // background-color: aliceblue;
+    .body-content{
+      // background-color: white;
+      
+        width: 90%;
+        margin-left: 30px;
+        .img1{
+          margin-top: 20px;
+          text-align: center;
+          margin-left: 60px;
+          
+          object-fit: contain;
+          
+        }
+        .cardimg{
+          transform:scale(1, 1);
+          transition: 1s; 
+          &:hover {
+              transform:scale(1.1, 1.1);
+          }
+          
+        }
+        
+      .body-menu1{  
+        padding-top: 30px;
+        margin-left: 50px;
+        // font-size: 50px;
+        .text-center{
+          padding-top: 10px;
+        }
+      }
+      .body-title1{
+        margin-top: 30px;
+        margin-left: 70px;
+        text-align: center;
+        @-webkit-keyframes my {
+          0% { color: black; } 
+          50% { color: #fff;  } 
+          100% { color: black;  } 
+        }
+        @-moz-keyframes my { 
+          0% { color: black;  } 
+          50% { color: #fff;  }
+          100% { color: black;  } 
+        }
+        @-o-keyframes my { 
+          0% { color: black } 
+          50% { color: #fff; } 
+          100% { color: black;  } 
+        }
+        @keyframes my { 
+          0% { color: black;  } 
+          50% { color: #fff;  }
+          100% { color: black;  } 
+        } 
+        a{
+          color: white;
+          margin-top: 20px;
+          text-decoration: none;
+          background-color:  black ;
+          border-radius: 10px;
+          border: solid 6px black;
+          font-size:24px;
+          font-weight:bold;
+          -webkit-animation: my 1000ms infinite;
+          -moz-animation: my 1000ms infinite; 
+          -o-animation: my 1000ms infinite; 
+          animation: my 1000ms infinite;
+        }
+      }
+  
+      .body-menu2{
+        display: block;
+        padding-top: 30px;
+        margin-left: 60px;
+        gap: 200px;
+        .title{
+          text-align: center;
+          .title-h2{            
+            font-size: 15px;
+            text-align: center;
+            font-weight: 700!important;
+            text-transform: capitalize!important;
+            margin-top: 0.5rem!important;          
+          }
+          .title-span{
+          color: black;
+          font-weight: 700!important;
+          text-align: center;
+          font-size: 15px;
+          }
+          .title-del{
+          color: #777;
+          font-weight: 400;
+          font-size: 14px;
+          margin-left: 10px;
+          font-style: italic;
+          }
+
+        }
+        .section{
+          display: block;
+        }
+      }
+  
+      .body-title2{
+        margin-top: 30px;
+        margin-left: 80px;
+        margin-bottom: 20px;
+        a{
+          color: white;
+          text-decoration: none;
+          background-color: rgb(255,200,0) ;
+          border-radius: 10px;
+          border: solid 6px  rgb(255,200,0) ;   
+          &:hover{
+            color: rgb(254, 228, 228);
+          }   
+          
+        }
+        .logobody{
+          text-align: center;
+        }
+        
+      }
+
+      .body-menu3{
+            display: flex;
+            margin-left: 90px;
+        .menu-link1{
+            width: 26%;
+            margin-top: 20px;
+            .link-den{
+              a{
+                text-decoration: none;
+                font-size: 17px;
+                color: black;
+                display: block;
+                &:hover{
+                  color:rgb(255, 200, 0) ;
+                }
+                img{
+                  width: 300px;
+                  height: 200px;
+                }
+              
+              }
+            }
+            
+        }
+        .menu-sp1{
+            width: 74%;
+          a{
+            text-decoration: none;
+          }
+            .card{
+                color: black;
+                width: 14rem;
+                margin-top: 22px;
+                height: 350px;
+                transform:scale(1, 1);
+                transition: 1s; 
+                &:hover {
+                    transform:scale(1.1, 1.1);
+                    color:rgb(255, 200, 0) ;
+                }
+
+                
+                .card-body{
+                  text-align:center;
+                  .card-title{
+                    font-size: 15px;
+                    text-align: center;
+                    font-weight: 700!important;
+                    text-transform: capitalize!important;
+                    margin-top: 0.5rem!important;
+                    
+                  
+                  }
+                  .card-price{
+                  color: red;
+                  font-weight: 700!important;
+                  text-align: center;
+                  font-size: 15px;
+                  }
+                  .card-sale{
+                  color: #777;
+                  font-weight: 400;
+                  font-size: 14px;
+                  margin-left: 10px;
+                  font-style: italic;
+                  text-align: center;
+                  }
+                }
+            }
+        }
+      }
+      
+    }
+
+    
+  }
+
+.motathem{
+  padding:30px 100px;
+  .title-h2{
+    background-color: rgb(255, 200, 0);
+    width: 230px;
+    border-radius: 5px;
+    padding: 5px;
+    color:aliceblue;
+  }
+}
+

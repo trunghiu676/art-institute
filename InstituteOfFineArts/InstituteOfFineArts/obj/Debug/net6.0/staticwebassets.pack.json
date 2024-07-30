@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/Hiu.png",
+      "PackagePath": "staticwebassets/Images/Avatar/Hiu.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/Hiu2.png",
+      "PackagePath": "staticwebassets/Images/Avatar/Hiu2.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/Thiet.png",
+      "PackagePath": "staticwebassets/Images/Avatar/Thiet.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/admin123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/admin123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/bao123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/bao123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/dat123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/dat123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/hien123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/hien123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/hiu123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/hiu123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/khang123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/khang123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/manager123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/manager123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/phong123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/phong123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/phuoc123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/phuoc123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/teacher123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/teacher123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Avatar/thiet123.jpg",
+      "PackagePath": "staticwebassets/Images/Avatar/thiet123.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/1.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/1.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/2.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/2.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/3.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/3.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/4.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/4.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/5.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/5.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/6.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/6.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/7.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/7.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Banner/8.jpg",
+      "PackagePath": "staticwebassets/Images/Banner/8.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/1.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/1.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/2.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/2.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/3.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/3.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/4.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/4.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/5.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/5.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/6.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/6.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/7.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/7.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/8.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/8.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Competition/9.jpg",
+      "PackagePath": "staticwebassets/Images/Competition/9.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/1.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/1.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/10.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/10.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/11.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/11.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/12.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/12.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/2.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/2.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/3.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/3.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/4.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/4.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/5.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/5.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/6.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/6.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/7.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/7.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/8.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/8.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Exhibition/9.jpg",
+      "PackagePath": "staticwebassets/Images/Exhibition/9.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/ngangden.jpg",
+      "PackagePath": "staticwebassets/Images/Logo/ngangden.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/ngangtrang.jpg",
+      "PackagePath": "staticwebassets/Images/Logo/ngangtrang.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/ngangtrong.png",
+      "PackagePath": "staticwebassets/Images/Logo/ngangtrong.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/ngangtrong1.png",
+      "PackagePath": "staticwebassets/Images/Logo/ngangtrong1.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/vuongden.png",
+      "PackagePath": "staticwebassets/Images/Logo/vuongden.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/vuongtrang.png",
+      "PackagePath": "staticwebassets/Images/Logo/vuongtrang.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/vuongtrong.png",
+      "PackagePath": "staticwebassets/Images/Logo/vuongtrong.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Logo/vuongtrong1.png",
+      "PackagePath": "staticwebassets/Images/Logo/vuongtrong1.png"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/1.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/1.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/10.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/10.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/11.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/11.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/12.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/12.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/13.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/13.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/14.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/14.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/15.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/15.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/16.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/16.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/17.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/17.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/18.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/18.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/19.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/19.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/2.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/2.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/20.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/20.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/21.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/21.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/22.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/22.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/23.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/23.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/24.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/24.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/25.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/25.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/26.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/26.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/27.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/27.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/28.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/28.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/29.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/29.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/3.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/3.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/30.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/30.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/4.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/4.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/5.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/5.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/6.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/6.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/7.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/7.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/8.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/8.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/Submissions/9.jpg",
+      "PackagePath": "staticwebassets/Images/Submissions/9.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/1.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/1.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/10.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/10.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/11.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/11.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/13.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/13.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/14.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/14.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/2.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/2.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/3.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/3.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/4.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/4.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/5.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/5.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/6.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/6.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/7.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/7.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/8.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/8.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/9.jpg",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/9.jpg"
+    },
+    {
+      "Id": "/Volumes/DATA/project/SEM3/Nhom3/InstituteOfFineArts/InstituteOfFineArts/wwwroot/Images/anh-nay-anh-no/daunga.png",
+      "PackagePath": "staticwebassets/Images/anh-nay-anh-no/daunga.png"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.InstituteOfFineArts.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.InstituteOfFineArts.props",
+      "PackagePath": "build\\InstituteOfFineArts.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.InstituteOfFineArts.props",
+      "PackagePath": "buildMultiTargeting\\InstituteOfFineArts.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.InstituteOfFineArts.props",
+      "PackagePath": "buildTransitive\\InstituteOfFineArts.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,29 @@
+#container1 {
+    box-shadow: 0 15px 30px 1px grey;
+    background: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 5em auto;
+    height: auto;
+    width: 800px;
+}
+
+.productt-details {
+    
+    padding: 30px;
+    height: 100%;
+
+    h1 {
+        font-family: 'Bebas Neue', cursive;
+        font-size: 40px;
+        color: #6c0000;
+    }
+
+    p {
+        font-family: 'EB Garamond', serif;
+        margin: 1em;
+        font-size: 18px;
+        color: #000000;
+    }
+}

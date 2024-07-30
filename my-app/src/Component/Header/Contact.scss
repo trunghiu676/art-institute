@@ -1,0 +1,44 @@
+.menu-contact-lh{
+    
+    .left-contact{
+        margin-left: 13px;
+        // width: 50%;
+        .title-text{
+            background-color: black ;
+            width: 385px;
+            border-radius: 5px;
+            padding: 5px;
+            color:aliceblue;
+        }
+        a{
+            text-decoration: none;
+            color: rgb(17, 200, 17);
+            &:hover{
+                color: darkgray;
+            }
+        }
+        .right-contact{
+            .title-text{
+                background-color: black ;
+                width: 230px;
+                border-radius: 5px;
+                padding: 5px;
+                color:aliceblue;
+            }
+            
+        }
+    }
+}
+input:placeholder-shown ~ label::before{
+    content:attr(data-emtry) ;
+    color: #8AACB2;
+}
+input:not(:placeholder-shown):valid ~ label::before{
+    content:attr(data-valid);
+    color: #58B05E;
+
+}
+input:invalid ~ label::before{
+    content:attr(data-invalid);
+    color: #F44947;
+}

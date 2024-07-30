@@ -1,0 +1,129 @@
+.payment{
+  .body-title1{
+    margin-top: 30px;
+    margin-left: 50px;
+    @-webkit-keyframes my {
+      0% { color: black; } 
+      50% { color: #fff;  } 
+      100% { color: black;  } 
+    }
+    @-moz-keyframes my { 
+      0% { color: black;  } 
+      50% { color: #fff;  }
+      100% { color: black;  } 
+    }
+    @-o-keyframes my { 
+      0% { color: black; } 
+      50% { color: #fff; } 
+      100% { color: black;  } 
+    }
+    @keyframes my { 
+      0% { color: black;  } 
+      50% { color: #fff;  }
+      100% { color: black;  } 
+    } 
+    a{
+      color: white;
+      margin-top: 20px;
+      text-decoration: none;
+      background-color:  black ;
+      border-radius: 10px;
+      border: solid 6px black;
+      font-size:24px;
+      font-weight:bold;
+      -webkit-animation: my 1000ms infinite;
+      -moz-animation: my 1000ms infinite; 
+      -o-animation: my 1000ms infinite; 
+      animation: my 1000ms infinite;
+    }
+  }
+
+  .linknow{
+    width: 20%;
+    border-radius: 5px;
+    margin-left: 80px;
+        .nav-link{
+        font-size: 17px;
+        color:rgb(84, 84, 84);
+        &:hover{
+            color: black;
+        }
+        }
+        .hientai{
+            font-weight: 700;
+        }
+    }
+
+    .sanpham{
+        width: 90%;
+        text-align: center;
+    }
+   
+    .page-item.active .page-link {
+      z-index: 1;
+      border: 1px solid rgb(255, 200, 0);
+      background-color: rgb(255, 200, 0);
+      color: #fff;
+      &:hover{
+        background-color: rgb(255, 200, 0);
+      }
+  }
+   
+  a{
+    color: black;
+    text-decoration: none;
+  }
+.card{
+  height: 400px;
+    width: 18rem;
+    margin-top: 22px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    transform:scale(1, 1);
+    transition: 0.6s; 
+    &:hover {
+        transform:scale(1.1, 1.1);
+        color:rgb(255, 200, 0);
+    }
+    
+  
+
+        height: 140px;
+        text-align: center;
+        .btn-add{
+
+          .btn-1{
+            margin-right: 8px;    
+            margin-top: 7px;
+          }
+          .btn-2{
+            margin-top: 7px;
+          }
+        }
+      .card-title{
+        font-size: 15px;
+        font-weight: 700!important;
+        text-transform: capitalize!important;
+        margin-top: 0.5rem!important;
+      }
+      .card-price{
+      color: red;
+      font-weight: 700!important;
+      font-size: 15px;
+      }
+      .card-sale{
+      color: #777;
+      font-weight: 400;
+      font-size: 14px;
+      margin-left: 10px;
+      font-style: italic;
+      }
+      
+    }
+   .spthem{
+    
+        color: black;
+        text-decoration: none;
+      
+   }
+}
